@@ -20,7 +20,7 @@ class Review extends StatelessWidget {
         commet,
         textAlign: TextAlign.left,
         style: TextStyle(
-            fontFamily: "Lato", fontSize: 17.0, fontWeight: FontWeight.w900),
+            fontFamily: "Lato", fontSize: 12.0, fontWeight: FontWeight.w900),
       ),
     );
 

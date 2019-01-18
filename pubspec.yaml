@@ -73,3 +73,6 @@ flutter:
 
   assets:
     - assets/image/people.jpg
+    - assets/image/paisaje01.jpg
+    - assets/image/paisaje02.jpg
+    - assets/image/paisaje03.jpg
